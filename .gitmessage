@@ -1,0 +1,17 @@
+# <type>(<scope>): <subject>
+#
+# <body>
+#
+# <footer>
+
+# Type: feat, fix, docs, test, chore, refactor
+# Scope: sentinel, cerberus, day-XX, readme, etc.
+# Subject: imperative mood, lowercase, no period
+#
+# Example:
+# feat(sentinel): add CPU monitoring with threshold alerts
+#
+# Implemented real-time CPU monitoring that checks usage
+# every 5 seconds and logs when threshold is exceeded.
+#
+# Closes #12

@@ -1,0 +1,30 @@
+# Output directories
+**/output/
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+
+# Test output
+test-results/
+coverage/
+
+# Environment files
+.env
+*.local
+
+# Compiled scripts (if any)
+*.compiled
