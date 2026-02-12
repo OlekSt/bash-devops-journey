@@ -48,8 +48,8 @@ An automated security scanner for infrastructure auditing and vulnerability dete
 ## ⚡ Quick Start
 ```bash
 # Clone and setup
-git clone https://github.com/YOUR-USERNAME/bash-mastery-60days.git
-cd bash-mastery-60days
+git clone https://github.com/YOUR-USERNAME/bash-devops-journey.git
+cd bash-devops-journey
 ./scripts/setup.sh
 
 # Run tests (when implemented)
@@ -157,7 +157,7 @@ I'm documenting this journey publicly to demonstrate:
 
 ---
 
-**Started:** [Today's Date]  
-**Target Completion:** [60 days from now]
+**Started:** [12.02.2026]  
+**Target Completion:** 60-90 days
 
 ⭐ **Star this repo** if you're on a similar learning journey!
